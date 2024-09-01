@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Unreal Projects/WArehouse_wreckage/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/Unreal Projects/WArehouse_wreckage/Content/StarterContent/Maps/Minimal_Default.umap",
+				"D:/Unreal Projects/WArehouse_wreckage/Content/StarterContent/Maps/BP_Projectile.uasset",
+				"D:/Unreal Projects/WArehouse_wreckage/Content/NewMap.umap",
+				"D:/Unreal Projects/WArehouse_wreckage/Content/IndustryPropsPack6/Meshes/SM_Barrel03.uasset",
+				"D:/Unreal Projects/WArehouse_wreckage/Content/IndustryPropsPack6/Meshes/SM_Barrel01.uasset",
+				"D:/Unreal Projects/WArehouse_wreckage/Content/StarterContent/Maps/Floor_Blueprint.uasset"
+			]
+		}
+	]
+}
